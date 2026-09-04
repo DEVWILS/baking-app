@@ -1,0 +1,17 @@
+# Go
+backend/baking-app
+backend/*.exe
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Editors and OS
+.vscode/
+.DS_Store
+Thumbs.db
